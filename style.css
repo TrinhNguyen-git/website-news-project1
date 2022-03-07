@@ -1,0 +1,164 @@
+body{
+	background-image: url(./image/wallpapernews.jpg);
+	margin: 0;
+	padding: 0;
+	font-family: Verdana;
+	font-size: 0.9em;
+	line-height: 1.5em;
+}
+
+ .dau{
+	height: 100px;
+	background: white;
+	color: #00537A;
+	margin: 0;
+ }
+ 
+ .dau h1{
+	margin: 0;
+	padding: 25px 25px;
+	font-family: "Times New Roman";
+	font-size:3em;
+	text-align: center;
+ }
+ 
+ .dau h1 a{
+	text-decoration: none;
+	color: #00537A;
+ }
+ 
+ .dau h1 a:hover{
+	color: #00537A;
+ }
+ 
+ .menutop{
+	height: 44px;
+	background: #00537A;
+ }
+ 
+ .menutop ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+ }
+ 
+ .menutop ul li a{
+	float: left;
+	text-decoration: none;
+	font-family: "Times New Roman";
+	font-size:1.2em;
+	color: white;
+	padding: 7px 15px;
+	font-weight: bold;
+ }
+ 
+ .menutop ul li a:hover{
+	color: black;
+	background: #d9cacd;
+ }
+ 
+ .menutop input[type=text]{
+	position: absolute;
+	width: 25%;
+	height: 35px;
+	right: 0;
+	top: 14.5%;
+/*	background-image: url("./image/search.jpg");*/
+	background-size: 18px 18px;
+	background-repeat: no-repeat;
+	background-position: 8.9px 8.9px; 
+	border: 1px solid black;
+	padding-left: 35px; 
+	border-radius: 10em / 10em;
+	outline: none;
+ }
+ 
+ .menutop input[type=submit]{
+	position: absolute;
+	border-radius: 50em / 50em;
+	right: 0;
+	z-index: 2;
+	top: 14.5%;
+	height: 35px;
+	border: 1px solid black;
+	background: white;
+	background-image: url("./image/search.jpg");
+	background-size: 18px 18px;
+	background-repeat: no-repeat;
+	background-position: 8.9px 8.9px;
+ }
+ 
+ .menutop input[value=''] {
+   color: white;
+}
+ 
+.cuoi{
+	height: 100px;
+	background: #00537A;
+	font-family: "Times New Roman";
+	font-size:1.2em;
+	color: white;
+	padding: 10px 10px;
+	margin: 0;
+}
+
+.myDiv{
+	width: 730px;
+	font-family: Verdana;
+	background: white;
+	padding: 5px;
+}
+	
+.right{
+	float: right;
+	margin-left: -100%;
+	width: 500px;
+	background: #00537A;
+ }
+ 
+.menuright{
+	margin: 0;
+	padding: 15px 5px;
+	line-height: 1.8em;
+ }
+ 
+.menuright ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+ }
+ 
+.menuright ul li a{
+	padding: 15px;
+	text-decoration: none;
+	font-weight: bold;
+	color: black;
+ }
+ 
+.menuright ul li a:hover{
+	color: #940a2a;
+	text-decoration: none;
+	color: black;
+ }
+ 
+ .dinhdang{
+	width: 97%;
+	background: white;
+	margin: 10px auto;
+	border-radius: 7px;
+	box-shadow: 2px 2px 20px black;
+ }
+ 
+ .dinhdang h1{
+	margin: 0;
+	padding: 5px 15px;
+	font-size: 1em;
+	background: #00537A;
+	color: black;
+ }
+
+	
+
+	
+	
+	
